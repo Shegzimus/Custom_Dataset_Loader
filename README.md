@@ -1,4 +1,4 @@
-# Data Loader Utility
+# Custom Dataset Loader
 
 This Python utility function, `load`, is designed to load and display basic information about datasets in various formats. It supports `.csv`, `.xlsx`, `.txt`, and `.json` file types and provides essential insights into the data, such as dimensions, data types, missing values, duplicate rows, and memory usage.
 
