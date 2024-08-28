@@ -55,7 +55,3 @@ When info = True, the function will output:
 
 **This utility is a helpful starting point for data exploration and can be easily integrated into data analysis workflows.**
 
-```javascript
-
-Save this content as `README.md` in your project directory. This file provides an overview of the `load` function, its features, and usage instructions.
-```
