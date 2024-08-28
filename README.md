@@ -22,8 +22,8 @@ pip install pandas numpy
 ```bash
 load(path, info=True)
 ```
-- **'path': (str) The file path to the dataset you wish to load. Supported formats include '.csv', '.xlsx', '.txt', and '.json'.
-- ** 'info': (bool, default=True) When set to 'True', the function will print detailed information about the dataset.
+- **'path'**(str):  The file path to the dataset you wish to load. Supported formats include '.csv', '.xlsx', '.txt', and '.json'.
+- **'info'**(bool, default=True):  When set to 'True', the function will print detailed information about the dataset.
 
 ## Example
 
